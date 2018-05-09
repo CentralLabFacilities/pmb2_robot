@@ -2,8 +2,8 @@
 Changelog for package pmb2_description
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+1.1.9 (2018-05-09)
+------------------
 * Add upload.launch
 * Further urdf updates
 * Additional wheel collision and transmission fixes

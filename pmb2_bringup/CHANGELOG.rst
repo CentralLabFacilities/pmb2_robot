@@ -2,8 +2,8 @@
 Changelog for package pmb2_bringup
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+1.1.9 (2018-05-09)
+------------------
 * added rviz and servoing to twist mux
 * updated license
 * fix standalone public sim of pmb2

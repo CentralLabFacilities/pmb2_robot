@@ -2,8 +2,8 @@
 Changelog for package pmb2_robot
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+1.1.9 (2018-05-09)
+------------------
 * updated license
 * fix standalone public sim of pmb2
 * commit version 0.2.1
